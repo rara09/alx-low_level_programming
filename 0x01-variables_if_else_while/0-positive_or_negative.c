@@ -1,7 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* main function to check if given number is positive or negative */
+/**
+ * main - function to check if given number is positive or negative 
+ * Return: 0 (success)
+ */
 int main(void)
 {
 	int n;
